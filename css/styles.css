@@ -430,14 +430,14 @@ body {
     align-items: center;
     width: 100%;
     height: 100%;
-    fill: var(--icons-color-main--);
+    color: var(--icons-color-main--);
     border: 1px solid var(--icons-color-main--);
     border-radius: 4px;
 }
 
 .icon-company:hover,
 .icon-company:focus {
-    fill: var(--accent-color--);
+    color: var(--accent-color--);
     border-color: var(--accent-color--);
 }
 
