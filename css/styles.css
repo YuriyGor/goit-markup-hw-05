@@ -441,6 +441,11 @@ body {
     border-color: var(--accent-color--);
 }
 
+.logo-company {
+    fill: currentColor;
+}
+
+
 /*футер*/
 .footer {
     background-color: var(--hero-footer-background-color--);
