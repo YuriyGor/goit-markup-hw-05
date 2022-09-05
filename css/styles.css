@@ -388,9 +388,7 @@ body {
     fill: var(--icons-color-main--);
     background-color: var(--white-color--);
 }
-.team-logo-social {
-    fill: var(--icons-color-main--);
-}
+
 .icon-networks:hover,
 .icon-networks:focus {
     background-color: var(--accent-color--);
