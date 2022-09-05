@@ -388,9 +388,7 @@ body {
     fill: var(--icons-color-main--);
     background-color: var(--white-color--);
 }
-.team-logo-social {
-    fill: var(--icons-color-main--);
-}
+
 .icon-networks:hover,
 .icon-networks:focus {
     background-color: var(--accent-color--);
@@ -402,7 +400,7 @@ body {
 .team-logo-social {
     width: 20px;
     height: 20px;
-    fill: var(--icons-color-main--);
+    fill: currentColor;
 }
 
 
