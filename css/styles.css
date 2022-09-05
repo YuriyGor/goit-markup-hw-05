@@ -385,18 +385,16 @@ body {
     height: 100%;
     border-radius: 50%;
 
-    fill: var(--icons-color-main--);
+    color: var(--icons-color-main--);
     background-color: var(--white-color--);
 }
 
 .icon-networks:hover,
 .icon-networks:focus {
     background-color: var(--accent-color--);
+    color: var(--white-color--);
 }
-.icon-networks:hover .team-logo-social,
-.icon-networks:focus .team-logo-socia {
-    fill: var(--secondary-background-color--);
-}
+
 .team-logo-social {
     width: 20px;
     height: 20px;
