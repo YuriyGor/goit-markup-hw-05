@@ -364,7 +364,7 @@ body {
     padding: 27px 0;
     text-align: center;
     color: var(--white-color--);
-    opacity: 1;
+    background-color: rgba(47, 48, 58, 0.8);
 }
 
 /*команда*/
