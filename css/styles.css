@@ -571,12 +571,12 @@ body {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1), background-color 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .social-icon-footer {
-    fill: currentColor;
+    /* fill: currentColor; */
 }
 
 .social-icon-footer:hover,
 .social-icon-footer:focus {
-    fill: var(--white-color--);
+    /* fill: var(--white-color--); */
     background-color: var(--accent-color--);
 }
 
